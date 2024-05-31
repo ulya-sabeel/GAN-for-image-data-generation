@@ -31,3 +31,10 @@ Label Description:
 
 9 Ankle boot
 
+
+# Generative Adversarial Network (GAN)
+
+![image](https://github.com/ulya-sabeel/GAN-for-image-data-generation/assets/78443098/71600553-7943-46f6-aff3-6243b735d74d)
+
+Image source: https://medium.com/@bhargavib/deep-convolutional-gan-for-image-generation-f63f6880ff65
+
